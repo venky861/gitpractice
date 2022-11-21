@@ -1,1 +1,1 @@
-console.log('this is branch2')
+console.log(process.env.email)

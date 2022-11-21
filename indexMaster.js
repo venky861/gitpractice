@@ -1,3 +1,7 @@
 console.log('this is master')
 console.log('this is update2')
 console.log('Updated index1')
+const dotenv = require('dotenv')
+dotenv.config()
+require('./indexBranch2')
+console.log(process.env.email)
