@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "name": "gitpractice",
+  "version": "1.0.0",
+  "main": "indexBranch1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venky861/gitpractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venky861/gitpractice/issues"
+  },
+  "homepage": "https://github.com/venky861/gitpractice#readme",
+  "description": ""
+}
